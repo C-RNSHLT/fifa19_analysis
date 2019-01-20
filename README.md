@@ -1,4 +1,4 @@
-# FIFA19_PlayersAnalysis
+# FIFA19 Players Analysis
 
 #### Background
 This is my first Data Visualization and Data Analysis project.
